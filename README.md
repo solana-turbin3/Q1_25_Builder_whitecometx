@@ -15,4 +15,5 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 [**<i>Anchor Vault Program</i>**](https://github.com/whitecometx/Anchor_Vault/tree/main) : This is an Anchor-based Solana program that implements a simple vault system. Users can initialize a vault, deposit funds, withdraw funds, and close the vault.
 
+[**<i>Anchor Marketplace</i>**](https://github.com/whitecometx/anchor_marketplace) : Anchor Marketplace is a decentralized NFT marketplace built on the Solana blockchain using the Anchor framework. This project demonstrates how to create a robust and flexible marketplace for listing, purchasing, and managing NFTs.
 
