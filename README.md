@@ -9,9 +9,9 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 <h3>Solana Apps</h3>
 
-[[**<i>Automatic Market Maker (AMM)</i>**](https://github.com/whitecometx/AMM_Anchor)]: This project implements an Automated Market Maker (AMM) using the Anchor framework on the Solana blockchain. The AMM uses a constant product formula for liquidity provision and token swaps.
+[**<i>Automatic Market Maker (AMM)</i>**](https://github.com/whitecometx/AMM_Anchor): This project implements an Automated Market Maker (AMM) using the Anchor framework on the Solana blockchain. The AMM uses a constant product formula for liquidity provision and token swaps.
 
-[**<i>NFT Staking</i>**](https://github.com/whitecometx/NFT_Staking) : The Anchor Escrow program facilitates secure token exchanges between two parties (maker and taker) without the need for a trusted intermediary.
+[**<i>NFT Staking</i>**](https://github.com/whitecometx/NFT_Staking) : This Solana program, built using the Anchor framework, implements an NFT staking mechanism. Users can stake their NFTs to earn points over time, with various configurable parameters to control the staking process.
 
 [**<i>Anchor Escrow</i>**](https://github.com/whitecometx/Anchor_Escrow) : The Anchor Escrow program facilitates secure token exchanges between two parties (maker and taker) without the need for a trusted intermediary.
 
