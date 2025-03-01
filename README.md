@@ -1,11 +1,8 @@
 <h1>Q1 25 Builders Cohort Repositories from Whitecometx.</h1>
 
-<h3>Prerequisite Programs</h3>
+<h3>Capstone Project- SolTrack - Package Tracking System</h3>
 
-[**<i>Enrollment dApp- typescript version</i>**](https://github.com/whitecometx/Enrollment_dApp_typescript_version)  : Solana Airdrop and Enrollment Project. This project demonstrates how to interact with the Solana blockchain using TypeScript. 
-
-[**<i>Enrollment dApp- rust version</i>**](https://github.com/whitecometx/Enrollment_dApp_rust_version) : Solana Enrollment dApp (Rust Version)
-This project demonstrates interaction with the Solana blockchain using Rust. It includes scripts for generating a keypair, requesting an airdrop, transferring tokens, and enrolling in the Turbin3 prerequisite program.
+[**<i>Package Tracking System (SolTrack)</i>**](https://github.com/whitecometx/Package_Tracking_System): A decentralized package tracking system built on Solana using Anchor. This program allows users to create packages, update their delivery status, and enforce business logic for valid status transitions while handling fees and security.
 
 <h3>Solana Apps</h3>
 
@@ -21,3 +18,9 @@ This project demonstrates interaction with the Solana blockchain using Rust. It 
 
 [**<i>Anchor Marketplace</i>**](https://github.com/whitecometx/anchor_marketplace) : Anchor Marketplace is a decentralized NFT marketplace built on the Solana blockchain using the Anchor framework. This project demonstrates how to create a robust and flexible marketplace for listing, purchasing, and managing NFTs.
 
+<h3>Prerequisite Programs</h3>
+
+[**<i>Enrollment dApp- typescript version</i>**](https://github.com/whitecometx/Enrollment_dApp_typescript_version)  : Solana Airdrop and Enrollment Project. This project demonstrates how to interact with the Solana blockchain using TypeScript. 
+
+[**<i>Enrollment dApp- rust version</i>**](https://github.com/whitecometx/Enrollment_dApp_rust_version) : Solana Enrollment dApp (Rust Version)
+This project demonstrates interaction with the Solana blockchain using Rust. It includes scripts for generating a keypair, requesting an airdrop, transferring tokens, and enrolling in the Turbin3 prerequisite program.
